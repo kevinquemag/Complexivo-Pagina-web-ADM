@@ -22,9 +22,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Ejecutar
--Para abrir el proyecto se debe instalar los modulos de node despues de clonar el mismo con el siguiente comando:
-
-npm install
+-Para abrir el proyecto se debe clonar el mismo.
 
 -Despues de ello se debe Importar la copia de base de datos en un editor de BD
 Nombre del Archivo : Dump20230108
